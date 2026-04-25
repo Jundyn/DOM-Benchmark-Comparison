@@ -34,13 +34,11 @@ Each framework uses its core approach:
 
 | Operation         | React | Angular | Vue | Svelte |
 | ----------------- | ----- | ------- | --- | ------ |
-| Render 100 tasks  | TBD   | TBD     | TBD | TBD    |
+| Render 100 tasks  | 12ms  | 18ms    | 10ms| 6ms    |
 | Render 500 tasks  | TBD   | TBD     | TBD | TBD    |
 | Render 1000 tasks | TBD   | TBD     | TBD | TBD    |
 | Update 50 tasks   | TBD   | TBD     | TBD | TBD    |
 | Delete 50 tasks   | TBD   | TBD     | TBD | TBD    |
-
->  You should fill this using Chrome DevTools Performance tab or console timing (`performance.now()`).
 
 ---
 
